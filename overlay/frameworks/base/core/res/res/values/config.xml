@@ -684,6 +684,9 @@
         <item>D_Cold mode:dynamic</item>
     </string-array>
 
+    <!-- Default state for LiveDisplay -->
+    <bool name="config_liveDisplayAvailable">true</bool>
+
     <!-- Should we filter any display modes which are unampped? -->
     <bool name="config_filterDisplayModes">true</bool>
 
